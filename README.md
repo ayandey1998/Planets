@@ -1,10 +1,5 @@
 # THE PLANETS 🪐🌏🌌
 
-A web about the planets in which you will find quite interesting information about them.
-<br></br>
-<p align="center">
-<a href="https://github.com/monicatvera"><img alt="author" src="https://img.shields.io/badge/Author-monicatvera-1DE9E1"></a>
-</p>
 
 ## Built With 🛠️
 
@@ -12,11 +7,6 @@ A web about the planets in which you will find quite interesting information abo
 
 * [React](https://es.reactjs.org/) - framework javascript
 * [Style Component](https://styled-components.com/) - framework css and js
-
-# Demo ▶️
-
-visualization of the project working
-[▶️click me](https://monicatvera.github.io/planets/)
 
 
 
